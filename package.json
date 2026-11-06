@@ -1,0 +1,15 @@
+{
+  "name": "mon-premier-site",
+  "version": "1.0.0",
+  "description": "Maison de Paix - refuge pour jeunes au Cameroun",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "nsat berthe darelle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+  
